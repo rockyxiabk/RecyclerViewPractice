@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="text_des">下面开始进入正题，大家都知道，当布局嵌套深入比较深的时候，往往会伴随着一些性能问题。所以很多时候我们建议使用RelativeLayout或者GridLayout来简化掉布局的深度。</string>
+    <string name="text_des1">下面开始进入正题，大家都知道，当布局嵌套深入比较深的时候，往往会伴随着一些性能问题。所以很多时候我们建议使用RelativeLayout或者GridLayout来简化掉布局的深度。</string>
+    <string name="text_des2">ConstraintLayout出现有一段时间了，不过一直没有特别去关注，也多多少少看了一些文字介绍，多数都是对使用可视化布局拖拽，个人对拖拽一直不看好，直到前段时间看到该文：</string>
+</resources>
